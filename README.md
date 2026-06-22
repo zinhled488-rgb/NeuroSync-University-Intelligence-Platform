@@ -3,11 +3,11 @@
 # Predict. Prevent. Empower Student Success.
 
 # Team - Techno Legends
-1. Zinhle Dlamini – Head of Business Analyst
-2. Diya Nandkoomar – Project Manager
-3. Vhutali Tshinaiwe – Software Developer
-4. Siphiwe Sithebe – Deputy Head of Designers
-5. Sinezipho Cebekhulu – Software Developer
+1. Zinhle Dlamini
+2. Diya Nandkoomar
+3. Vhutali Tshinaiwe 
+4. Siphiwe Sithebe
+5. Sinezipho Cebekhulu
 
 # Overview
 NeuroSync is an intelligent university analytics platform built using Microsoft Fabric.
