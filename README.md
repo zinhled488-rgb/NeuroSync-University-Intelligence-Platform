@@ -21,13 +21,13 @@ Universities worldwide face increasing challenges in supporting student success 
 
 ### Key Statistics
 
-📈 Global tertiary enrolment has increased from **19% to 44% since 2000**, placing greater pressure on universities to support diverse student populations.
+Global tertiary enrolment has increased from **19% to 44% since 2000**, placing greater pressure on universities to support diverse student populations.
 
-📉 More than **20% of bachelor's degree students leave during or after their first year** in several higher education systems.
+More than **20% of bachelor's degree students leave during or after their first year** in several higher education systems.
 
-⚠️ Approximately **15% or more of first-year students drop out** due to poor engagement, academic challenges, or wellbeing concerns.
+Approximately **15% or more of first-year students drop out** due to poor engagement, academic challenges, or wellbeing concerns.
 
-🧠 Research consistently identifies **attendance, engagement, and assessment performance** as strong predictors of student success and retention.
+Research consistently identifies **attendance, engagement, and assessment performance** as strong predictors of student success and retention.
 
 These challenges highlight the need for a unified, intelligent platform that can identify at-risk students early and enable proactive intervention.
 
@@ -39,23 +39,15 @@ These challenges highlight the need for a unified, intelligent platform that can
 
 # Solution
 
-NeuroSync provides a single intelligent platform that integrates:
+The NeuroSync solution is an intelligent university analytics platform designed to provide real-time insights into student performance, attendance, and wellbeing. It addresses the challenge of delayed intervention in identifying at-risk students by centralising fragmented institutional data into a unified, AI-powered ecosystem built on Microsoft Fabric.
 
-Student Information
-Academic Performance
-Attendance Data
-Study Behaviour
-Wellbeing Indicators
-Risk Factors
+The system ingests multiple data sources, including attendance records, academic performance, and student wellbeing indicators, into Microsoft OneLake, where the data is stored and managed in a structured Lakehouse environment. From there, Fabric Notebooks are used for data cleaning, transformation, and preparation for analysis.
 
- The platform generates:
+A key component of the solution is the Risk Analysis Engine, which applies logic and predictive modelling to identify students who may be at risk academically or emotionally. This engine processes patterns such as declining attendance, poor academic performance, and wellbeing signals to generate early warning indicators.
 
-Early Risk Detection
-AI-Powered Recommendations
-Student Success Analytics
-Interactive Dashboards
-Advisor Insights
-Intervention Strategies
+To enhance decision-making, NeuroSync integrates an AI Insight Agent, which acts as an intelligent assistant for educators and administrators. This AI agent interprets processed data and provides clear, human-readable recommendations such as identifying students who need urgent academic support, suggesting interventions, and summarising key trends across departments. It enables non-technical users to interact with complex data in a simple, conversational manner.
+
+Finally, insights are visualised through Power BI dashboards, allowing stakeholders to monitor student risk levels, track trends over time, and make data-driven decisions. This end-to-end pipeline ensures that universities can move from reactive responses to proactive student support, improving retention and academic success rates.
 
 # Technologies Used
 - Microsoft Fabric
@@ -85,5 +77,14 @@ Presented the Power BI dashboard component of NeuroSync. He demonstrated the ana
 
 # Hackathon Achievement
 
-🏆 1st Place – Microsoft Fabric Hackathon 2026
+🏆We won 1st Best Solution – DUT Microsoft Fabric Hackathon 2026
+
+## Presentation Highlights
+
+The following slides are provided as evidence of the NeuroSync solution, highlighting only the core components of the project. This includes the problem statement, the proposed AI-driven solution, and the solution architecture built using Microsoft Fabric. These selected slides demonstrate the technical design and overall approach of the system in a clear and focused manner.
+
+# THE PROBLEM STATEMENT <img width="1179" height="662" alt="SLIDE 1" src="https://github.com/user-attachments/assets/ded7bd8c-5442-4433-a6b2-47d11591d34a" />
+# THE SOLUTION <img width="1171" height="663" alt="SLIDE 2" src="https://github.com/user-attachments/assets/09cc636b-6fc3-4ed9-80b0-92fa30e221ef" />
+# SECURITY & DATA PROTECTION <img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/5b761ed9-ddf5-491b-a8ea-2be90ad70377" />
+ 
 
