@@ -167,7 +167,7 @@ The Sign-In Page provides secure access to the NeuroSync platform, allowing user
 he Authentication and Security page provides an additional layer of protection through secure user verification. It ensures that only authorised users can access the NeuroSync platform, helping to safeguard sensitive student and institutional data.
 
 ### Prototype Screen 4: Student Home Page Dashboard
-<img width="1920" height="1020" alt="pro4" src="https://github.com/user-attachments/assets/8af2170c-717f-4924-9c9b-5108b8b761ca" />
+<img width="1920" height="929" alt="pro4" src="https://github.com/user-attachments/assets/a26581d9-f623-448b-9652-25e93a63cd81" />
 The Home Dashboard provides students with a personalized overview of their academic performance, wellbeing status, module progress, submission tracking and key recommendations. It serves as a central hub for monitoring progress, staying organized, and receiving AI-powered guidance.
 
 ### Prototype Screen 5: Learning Analytics 
@@ -193,6 +193,43 @@ An intelligent assistant that provides personalized academic support, recommenda
 ### Prototype Screen 10: Wellness
 <img width="1920" height="921" alt="pro10" src="https://github.com/user-attachments/assets/d0944a8b-0859-468b-b5a0-8f7cb14ecc83" />
 
+### Figure 1.1
+
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/39a8b187-2416-4488-a8b7-0244ef443f4e" />
+
+### Figure 1.2
+
+<img width="1920" height="925" alt="image" src="https://github.com/user-attachments/assets/bb8a2f43-a669-4afc-8dc9-f73cabac5c02" />
+
+### Figure 1.3
+
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/e9dfe3c9-bd95-48db-a21b-8f5e967043f7" />
+
+### Figure 1.4
+
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/3d0c1a69-be66-480d-a9cb-f51d6747aabc" />
+
+
+### Figure 1.5
+
+The Wellness Check-In feature empowers students to reflect on their emotional wellbeing, sleep quality, energy levels, and academic stress through a quick and interactive assessment. By capturing real-time wellbeing indicators, NeuroSync gains a deeper understanding of factors that may impact student performance and engagement.
+Once completed, the results are seamlessly shared with the AI Companion, which provides personalized guidance, encouragement, and actionable recommendations tailored to the student's current state. This transforms wellbeing data into meaningful support, helping students maintain a healthy balance between academic success and personal wellbeing.
+
+## Key Areas Assessed:
+
+- Emotional wellbeing and mood
+- Sleep quality and rest patterns
+- Daily energy levels
+= Academic stress levels
+- Personalized AI-powered support and recommendations
+
+### Prototype Screen 11: Risk Analysis
+<img width="1920" height="924" alt="pro11" src="https://github.com/user-attachments/assets/ce6c0aec-05e4-40e7-8072-e5d1c8191671" />
+The Risk Analysis feature uses AI-driven analytics to identify potential academic and wellbeing risks early. It provides personalized recommendations and proactive support plans, helping students stay on track and improve their chances of academic success.
+
+### Prototype Screen 12: Notifications
+<img width="1920" height="925" alt="pro12" src="https://github.com/user-attachments/assets/e79b282c-7806-4ec8-ba44-3d824ca4a31a" />
+Delivers important updates, reminders, alerts, and recommendations to keep students informed and engaged.
 
 # Presentation Highlights
 
