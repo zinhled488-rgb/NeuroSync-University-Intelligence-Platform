@@ -176,6 +176,22 @@ rovides detailed insights into academic performance, learning trends, and progre
 
 ### Prototype Screen 6: Submission Tracker
 <img width="1920" height="928" alt="pro6" src="https://github.com/user-attachments/assets/c0d450d3-39df-4c7e-b3b6-d2c364fcda94" />
+Helps students monitor upcoming assignments, deadlines, and submission status to ensure they stay on track academically.
+
+### Prototype Screen 7: Learning Habits
+<img width="1920" height="921" alt="pro7" src="https://github.com/user-attachments/assets/d318e425-26a2-484c-aad2-684ff6e938ea" />
+Analyzes study patterns and engagement levels, providing recommendations to help students develop effective learning behaviors.
+
+### Prototype Screen 8: Study Planner
+<img width="1920" height="925" alt="pro8" src="https://github.com/user-attachments/assets/2f4d3b71-c1ac-43c5-a94d-7768b08635b0" />
+The Study Planner & Focus page helps students manage their study schedules, track academic goals, and improve productivity through AI-generated recommendations, task planning, and focused study sessions. It promotes effective time management and supports consistent academic progress.
+
+### Prototype Screen 9: AI Companion
+<img width="1920" height="924" alt="image" src="https://github.com/user-attachments/assets/b5683a4c-69e1-405e-b618-5c68906107c3" />
+An intelligent assistant that provides personalized academic support, recommendations, and guidance based on student performance and wellbeing data.
+
+### Prototype Screen 10: Wellness
+<img width="1920" height="921" alt="pro10" src="https://github.com/user-attachments/assets/d0944a8b-0859-468b-b5a0-8f7cb14ecc83" />
 
 
 # Presentation Highlights
