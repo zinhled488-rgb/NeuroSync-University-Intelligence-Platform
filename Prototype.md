@@ -97,40 +97,47 @@ The Enterprise Overview provides university leaders with a real-time snapshot of
 
 ### Prototype Screen 2: Burnout Heatmaps
 <img width="1920" height="926" alt="org 2" src="https://github.com/user-attachments/assets/5e932bbf-19d0-45b7-8428-7206c17b9c58" />
+The Burnout Heatmaps feature provides a visual analysis of stress and wellbeing trends across faculties, departments, and campus locations. By identifying high-risk areas, workload patterns, and emerging wellbeing concerns, it enables universities to take proactive measures and deliver targeted support before challenges escalate.
 
 ### Prototype Screen 3: Live AI Alerts
 <img width="1920" height="926" alt="org3" src="https://github.com/user-attachments/assets/ff589b23-6968-4507-9e3d-3a93c05b0d93" />
+The Live AI Alerts feature provides real-time monitoring of student wellbeing, engagement, and academic risk indicators. Using AI-powered analysis, it detects emerging concerns, prioritises cases based on severity, and enables university staff to take proactive action through timely interventions and support measures.
 
 ### Prototype Screen 4: Predictive Reports
-
-
+<img width="1920" height="929" alt="org  4" src="https://github.com/user-attachments/assets/eea466be-f8fa-4bfc-8bc5-dfe721c8a6dc" />
+The Predictive Reports feature leverages AI and historical student data to forecast future trends, including dropout risk, retention rates, burnout patterns, and intervention outcomes. By providing forward-looking insights and early warnings, it enables universities to plan proactive support strategies, improve student retention, and make informed institutional decisions before challenges arise.
 
 ## Operations & Triage
 
 ### Prototype Screen 5: Student Profiles 
 <img width="1920" height="928" alt="org 5" src="https://github.com/user-attachments/assets/6738614e-77eb-44bc-9131-1624340ef4e3" />
+The Student Profiles feature provides university staff with a comprehensive view of individual student wellbeing, academic engagement, and risk indicators. By consolidating student information, wellness scores, AI-generated risk assessments, and active intervention flags into a single profile, NeuroSync enables support teams to quickly identify concerns, track progress, and deliver personalised interventions that promote student success.
 
 ### Prototype Screen 6: Counselor Triage
 <img width="1920" height="926" alt="org 6" src="https://github.com/user-attachments/assets/3fec9e34-db2d-4daa-959b-2bdba5a2fe85" />
+The Counselor Triage feature helps student support teams efficiently manage interventions by prioritising high-risk cases and allocating them to the appropriate specialists. Through real-time caseload monitoring, escalation queues, and AI-driven risk assessments, NeuroSync ensures that students receive timely support while helping universities optimise available counselling resources.
 
 ### Prototype Screen 7: Wellness Campaigns
 <img width="1920" height="925" alt="org 7" src="https://github.com/user-attachments/assets/d8beeafa-1283-4f59-813f-37201c29e8a2" />
-
+The Wellness Campaigns feature enables universities to design, manage, and automate targeted wellbeing initiatives across the student population. Using AI-driven insights and engagement analytics, NeuroSync identifies emerging wellbeing concerns, recommends appropriate interventions, and measures their impact, helping institutions promote student wellness proactively and at scale.
 
 ## Configuration
 
 ### Prototype Screen 8:Data Integrations
 <img width="1920" height="921" alt="org 8" src="https://github.com/user-attachments/assets/5821535a-a0c7-4ee8-b326-b387dbdc7820" />
+The Data Integrations feature enables NeuroSync to securely connect with external university systems, including learning management systems, student information systems, health platforms, and wellbeing applications. By consolidating data from multiple sources into a unified ecosystem, NeuroSync ensures that AI insights, risk assessments, and analytics are powered by accurate, real-time information, supporting more informed and proactive decision-making.
 
 ### Prototype Screen 9:System Settings
 <img width="1920" height="922" alt="org 9" src="https://github.com/user-attachments/assets/50decf6b-a6fe-4cef-91db-273fee702b6c" />
+The System Settings feature provides administrators with centralized control over NeuroSync’s configuration, security policies, AI parameters, data thresholds, and user access permissions. It enables institutions to customize platform behavior, manage integrations, and enforce governance policies, ensuring that NeuroSync operates securely, efficiently, and in alignment with university requirements.
 
 ### Figure 1.1: Alert Threshold
 <img width="1920" height="918" alt="org 10" src="https://github.com/user-attachments/assets/36f081b1-cce4-4139-9312-6a9b30a92a2e" />
+The Alert Thresholds feature allows administrators to configure the sensitivity of NeuroSync’s AI monitoring engine. By defining risk and intervention thresholds, universities can customize how the platform detects emerging concerns, generates alerts, and prioritizes student support. This ensures that potential academic or wellbeing risks are identified early while aligning notifications and interventions with institutional requirements.
 
 ### Figure 1.1: Data Integrations + Access Control 
 <img width="1920" height="925" alt="org 11" src="https://github.com/user-attachments/assets/2a2342f0-0074-4eee-a21a-5176a7ce842c" />
-
+This feature enables administrators to manage enterprise-level security, access permissions, and advanced platform configurations. It ensures that sensitive settings and critical system functions are restricted to authorized personnel, maintaining secure governance, controlled access, and compliance with institutional policies. Through role-based permissions and administrator controls, NeuroSync protects system integrity while supporting secure platform management.
 
 
 
