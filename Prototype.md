@@ -84,3 +84,63 @@ The Risk Analysis feature uses AI-driven analytics to identify potential academi
 <img width="1920" height="925" alt="pro12" src="https://github.com/user-attachments/assets/e79b282c-7806-4ec8-ba44-3d824ca4a31a" />
 Delivers important updates, reminders, alerts, and recommendations to keep students informed and engaged.
 
+
+## Organisation Portal
+
+The Organisation Portal transforms institutional data into actionable intelligence. It empowers university leaders, lecturers, and support staff with real-time visibility into student wellbeing, engagement, academic performance, and risk levels. Through advanced analytics and AI-driven recommendations, NeuroSync enables proactive intervention, helping institutions support students before challenges become critical.
+
+
+## Analytics Engine
+### Prototype Screen 1: Enterprise Overview
+<img width="1920" height="917" alt="org 1" src="https://github.com/user-attachments/assets/df9e2759-d8a2-4969-8f24-efd16ce4cef7" />
+The Enterprise Overview provides university leaders with a real-time snapshot of student success, wellbeing, and institutional risk. By consolidating key metrics, AI-generated alerts, and predictive insights into a single dashboard, it enables proactive decision-making and early intervention to improve student retention and overall academic outcomes. 
+
+### Prototype Screen 2: Burnout Heatmaps
+<img width="1920" height="926" alt="org 2" src="https://github.com/user-attachments/assets/5e932bbf-19d0-45b7-8428-7206c17b9c58" />
+
+### Prototype Screen 3: Live AI Alerts
+<img width="1920" height="926" alt="org3" src="https://github.com/user-attachments/assets/ff589b23-6968-4507-9e3d-3a93c05b0d93" />
+
+### Prototype Screen 4: Predictive Reports
+
+
+
+## Operations & Triage
+
+### Prototype Screen 5: Student Profiles 
+<img width="1920" height="928" alt="org 5" src="https://github.com/user-attachments/assets/6738614e-77eb-44bc-9131-1624340ef4e3" />
+
+### Prototype Screen 6: Counselor Triage
+<img width="1920" height="926" alt="org 6" src="https://github.com/user-attachments/assets/3fec9e34-db2d-4daa-959b-2bdba5a2fe85" />
+
+### Prototype Screen 7: Wellness Campaigns
+<img width="1920" height="925" alt="org 7" src="https://github.com/user-attachments/assets/d8beeafa-1283-4f59-813f-37201c29e8a2" />
+
+
+## Configuration
+
+### Prototype Screen 8:Data Integrations
+<img width="1920" height="921" alt="org 8" src="https://github.com/user-attachments/assets/5821535a-a0c7-4ee8-b326-b387dbdc7820" />
+
+### Prototype Screen 9:System Settings
+<img width="1920" height="922" alt="org 9" src="https://github.com/user-attachments/assets/50decf6b-a6fe-4cef-91db-273fee702b6c" />
+
+### Figure 1.1: Alert Threshold
+<img width="1920" height="918" alt="org 10" src="https://github.com/user-attachments/assets/36f081b1-cce4-4139-9312-6a9b30a92a2e" />
+
+### Figure 1.1: Data Integrations + Access Control 
+<img width="1920" height="925" alt="org 11" src="https://github.com/user-attachments/assets/2a2342f0-0074-4eee-a21a-5176a7ce842c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
