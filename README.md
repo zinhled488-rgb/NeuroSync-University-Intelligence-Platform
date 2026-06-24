@@ -160,7 +160,8 @@ Siphiwe designed and developed the complete NeuroSync prototype, bringing the sy
 
 ### Vhutali Tshinaiwe 
 
-Vhutali assisted in completion of the presentation making sure that everything is in the correct structure from the problem statement to the proposed solution and assisted in making the presentation more appealing.
+Assisted in the design and development of the project presentation by contributing to the structuring, refinement, and organization of content used during the final pitch. Played an important supporting role in ensuring the presentation was clear, well-structured, and effectively communicated the NeuroSync solution during the demonstration.
+
 
 ### Sinezipho Cebekhulu
 Presented the Power BI dashboard component of NeuroSync. He demonstrated the analytics, reports, charts, graphs, and data visualisations, explaining how the platform transforms university data into actionable insights that support student success and decision-making.
