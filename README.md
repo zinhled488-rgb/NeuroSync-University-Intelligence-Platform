@@ -92,22 +92,22 @@ NeuroSync is more than a traditional student analytics platform. It combines adv
 
  ## Unique Value Proposition
 
-- ### Unified Student Intelligence
+### Unified Student Intelligence
 Integrates attendance, academic, and wellbeing data into a single source of truth.
 
-- ### AI-Powered Insights
+### AI-Powered Insights
 Provides recommendations and explanations, not just dashboards and reports.
 
-- ### Early Risk Detection
+### Early Risk Detection
 Identifies potential student challenges before they become critical issues.
 
-- ### Microsoft Fabric Architecture
+### Microsoft Fabric Architecture
 Leverages OneLake, Lakehouse, Fabric Notebooks, Power BI, and AI capabilities in a modern cloud-based platform.
 
-- ### Human-Centred Design
+### Human-Centred Design
 Presents complex analytics in a simple and understandable format for lecturers, advisors, and university management.
 
-- ### Actionable Decision Support
+### Actionable Decision Support
 Transforms data into meaningful actions that help improve student outcomes and institutional performance.
 
 
