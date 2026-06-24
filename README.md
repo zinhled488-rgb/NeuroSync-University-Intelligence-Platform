@@ -158,11 +158,17 @@ Diya was the original proposer of the NeuroSync concept and contributed signific
 
 Siphiwe designed and developed the complete NeuroSync prototype, bringing the system to life through its user interface and interaction flows. During the presentation, she demonstrated the prototype screens in detail and explained the end-to-end user experience across different roles, including students, universities, and organisational users. She highlighted how users navigate the platform and interact with its core features to achieve seamless engagement.
 
-### 
+### Vhutali Tshinaiwe 
 
+Vhutali assisted in completion of the presentation making sure that everything is in the correct structure from the problem statement to the proposed solution and assisted in making the presentation more appealing.
 
 ### Sinezipho Cebekhulu
 Presented the Power BI dashboard component of NeuroSync. He demonstrated the analytics, reports, charts, graphs, and data visualisations, explaining how the platform transforms university data into actionable insights that support student success and decision-making.
 
 
+##  Conclusion
+
+NeuroSync demonstrates how Microsoft Fabric, artificial intelligence, predictive analytics, and business intelligence can be combined to create a proactive student success platform. By transforming fragmented academic, attendance, engagement, and wellbeing data into actionable insights, NeuroSync enables universities to identify risks earlier, intervene more effectively, and improve student outcomes.
+
+Through intelligent analytics, AI-powered recommendations, enterprise-grade security, and a user-centred design, NeuroSync provides a scalable foundation for the future of higher education. Our vision is to empower institutions to move beyond reactive support models and create data-driven environments where every student has the opportunity to succeed.
 
