@@ -2,7 +2,7 @@
 # AI-Powered University Intelligence Platform
 # Predict. Prevent. Empower Student Success.
 
-# Team - Techno Legends
+# Team
 1. Zinhle Dlamini
 2. Diya Nandkoomar
 3. Vhutali Tshinaiwe 
