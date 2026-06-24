@@ -139,25 +139,6 @@ Security Commitment
 
 By combining role-based access control, Microsoft Entra ID authentication, encrypted data storage, secure API integrations, university network protection, and POPIA-aligned governance, NeuroSync provides a trusted and secure environment for student success analytics while maintaining the highest standards of privacy and data protection.
 
-
-# System Architecture
-
-The following architecture diagram is provided as evidence of the NeuroSync system design. It illustrates the end-to-end flow of data through the platform, from student data sources to analytics and decision-making outputs. The diagram highlights the integration of Microsoft Fabric components, including OneLake, Lakehouse, Fabric Notebooks, the Risk Analysis Engine, the AI Insight Agent, and Power BI. It demonstrates how NeuroSync transforms raw student data into actionable insights that support proactive intervention and informed decision-making within universities.
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7efddd94-b0bc-41e4-b981-6b5fc7d73618" />
-The architecture highlights the technical foundation of NeuroSync, showcasing how Microsoft Fabric, intelligent risk analysis, and AI-powered recommendations work together to create a secure, scalable, and data-driven student intelligence platform.
-
-
-
-# Presentation Highlights
-
-The following slides are provided as evidence of the NeuroSync solution, highlighting only the core components of the project. This includes the problem statement, the proposed AI-driven solution, and the security and data protection built using Microsoft Fabric. These selected slides demonstrate the technical design and overall approach of the system in a clear and focused manner.
-
-# THE PROBLEM STATEMENT <img width="1179" height="662" alt="SLIDE 1" src="https://github.com/user-attachments/assets/ded7bd8c-5442-4433-a6b2-47d11591d34a" />
-# THE SOLUTION <img width="1171" height="663" alt="SLIDE 2" src="https://github.com/user-attachments/assets/09cc636b-6fc3-4ed9-80b0-92fa30e221ef" />
-# SECURITY & DATA PROTECTION <img width="1177" height="664" alt="image" src="https://github.com/user-attachments/assets/5b761ed9-ddf5-491b-a8ea-2be90ad70377" />
-
-
  
 # Hackathon Achievement
 
