@@ -147,16 +147,19 @@ By combining role-based access control, Microsoft Entra ID authentication, encry
 ## Team Contributions and Presentation Roles
 
 ### Zinhle Dlamini
-Conducted the project research, created the complete presentation, and created the project documentation. During the presentation, she introduced NeuroSync and presented the project from the problem statement through to the proposed solution. This included explaining the challenges faced by universities, the purpose of NeuroSync, its key features, benefits, architecture, security considerations, future enhancements, and overall impact.
+
+Zinhle led the project research and contributed to the requirements gathering process, helping define the structure and direction of the solution. She was also responsible for compiling the full presentation and project documentation. During the presentation, she introduced NeuroSync and guided the audience through the project from the problem statement to the proposed solution. Her presentation covered the challenges faced by universities, the purpose and vision of NeuroSync, its key features and benefits, the system architecture, security considerations, future enhancements, and the overall impact of the solution.
 
 ### Diya Nandkoomar
-Contributed to requirements gathering, developed the NeuroSync concept and  with the Power BI component of the project. During the presentation, she participated in presenting the prototype and demonstrated how different users would interact with the NeuroSync platform through the designed interfaces.
 
-### Vhutali Tshinaiwe
-Assisted with the creation and preparation of the project presentation, contributing to the development and organisation of presentation content used during the final demonstration.
+Diya was the original proposer of the NeuroSync concept and contributed significantly to both the requirements gathering and the backend design of the system. She also contributed to the development of the Power BI component. During the presentation, she supported the demonstration of the prototype and explained how different users would interact with the NeuroSync platform, highlighting key system functionalities and workflows.
 
 ### Siphiwe Sithebe
-Designed and developed the complete NeuroSync prototype. During the presentation, she demonstrated the prototype screens and explained the user experience, including the student, university, and organisational interfaces and how users would navigate the platform.
+
+Siphiwe designed and developed the complete NeuroSync prototype, bringing the system to life through its user interface and interaction flows. During the presentation, she demonstrated the prototype screens in detail and explained the end-to-end user experience across different roles, including students, universities, and organisational users. She highlighted how users navigate the platform and interact with its core features to achieve seamless engagement.
+
+### 
+
 
 ### Sinezipho Cebekhulu
 Presented the Power BI dashboard component of NeuroSync. He demonstrated the analytics, reports, charts, graphs, and data visualisations, explaining how the platform transforms university data into actionable insights that support student success and decision-making.
