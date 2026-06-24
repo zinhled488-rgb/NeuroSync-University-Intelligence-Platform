@@ -110,6 +110,35 @@ Presents complex analytics in a simple and understandable format for lecturers, 
 ### Actionable Decision Support
 Transforms data into meaningful actions that help improve student outcomes and institutional performance.
 
+# Security & Privacy
+
+NeuroSync is built with enterprise-grade security and privacy controls to protect sensitive student and institutional data. The platform follows a security-first approach, ensuring that information is accessed responsibly, transmitted securely, and managed in compliance with data protection standards.
+
+## Key Security Features
+
+### Role-Based Access Control (RBAC)
+
+Access to data and platform functionality is restricted based on user roles. Students, lecturers, advisors, and administrators can only view information relevant to their responsibilities, reducing the risk of unauthorized access.
+
+### Enterprise Security
+
+NeuroSync leverages Microsoft Entra ID for secure authentication and identity management. Data is protected through encryption both in transit and at rest, ensuring confidentiality and integrity across the platform.
+
+### Secure University Network Deployment
+
+The solution can be deployed within a university's secure VPN or intranet environment, providing an additional layer of protection and restricting access to authorised users within the institution.
+
+### POPIA-Aligned Data Governance
+
+NeuroSync supports responsible data handling practices aligned with the Protection of Personal Information Act (POPIA). The platform promotes transparency, accountability, auditability, and privacy-conscious management of student information.
+
+### Secure API Integrations
+
+External systems such as Moodle and other university platforms can be integrated through authenticated and secure APIs, enabling safe data exchange without compromising security.
+Security Commitment
+
+By combining role-based access control, Microsoft Entra ID authentication, encrypted data storage, secure API integrations, university network protection, and POPIA-aligned governance, NeuroSync provides a trusted and secure environment for student success analytics while maintaining the highest standards of privacy and data protection.
+
 
 # System Architecture
 
